@@ -1,3 +1,3 @@
 ### Project description
 
-[put here in one line what you're trying to do / the title of your project]
+trajectories varying phase shift and mixing angle
